@@ -51,16 +51,3 @@
   <a href="https://instagram.com/coding.tutor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.leetcode.com/aditya-obj"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
-
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-obj&show_icons=true&theme=transparent&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-obj&layout=compact&theme=transparent&hide_border=true" height="160" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=aditya-obj&theme=transparent&hide_border=true" height="160" />
-</p>
