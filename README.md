@@ -1,6 +1,6 @@
 <h1 align="center">Aditya Kumar</h1>
 <p align="center">
-  Full-Stack Developer • Next.js • React • Tailwind • Python • MongoDB • Firebase
+  Flutter • React Native Expo • Fast API • Alembic • Next.js • React.js
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,python,mongodb,firebase,js,ts,html,css,git,github,postman,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,reactnative,nextjs,reactjs,firebase,supabase,mongodb,postgresql,git,postman,tailwind,expressjs,sqlalchemy,alembic,python,js" alt="tech stack" />
 </p>
 
 ---
