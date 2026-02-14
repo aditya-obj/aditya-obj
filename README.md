@@ -30,7 +30,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,nextjs,react,firebase,supabase,mongodb,postgres,git,postman,tailwind,express,python,js" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,postgres,nextjs,react,firebase,supabase,mongodb,git,postman,tailwind,express,python,js" alt="tech stack" />
 </p>
 
 ---
@@ -38,7 +38,6 @@
 ## Featured Links
 
 - Portfolio: [adityaforge.in](https://adityaforge.in)
-- Resume: [View Resume](https://docs.google.com/document/d/1kBQVnEt4BFLOQ8mHzbeOlk69j4WOK_w9/edit?usp=sharing&ouid=101248581418512664053&rtpof=true&sd=true)
 - Email: [aditya.obj@gmail.com](mailto:aditya.obj@gmail.com)
 
 ---
@@ -46,7 +45,7 @@
 ## Connect
 
 <p>
-  <a href="https://adityaforge.in"><img src="https://img.shields.io/badge/Portfolio-adityaforge.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://adityaforge.in"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/aditya-obj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/coding.tutor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
