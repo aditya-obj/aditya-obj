@@ -37,7 +37,7 @@
 
 ## Featured Links
 
-- Portfolio: [aditya-obj.vercel.app](https://aditya-obj.vercel.app)
+- Portfolio: [adityaforge.in](https://adityaforge.in)
 - Resume: [View Resume](https://docs.google.com/document/d/1kBQVnEt4BFLOQ8mHzbeOlk69j4WOK_w9/edit?usp=sharing&ouid=101248581418512664053&rtpof=true&sd=true)
 - Email: [aditya.obj@gmail.com](mailto:aditya.obj@gmail.com)
 
