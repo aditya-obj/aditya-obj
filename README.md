@@ -10,8 +10,8 @@
   <a href="https://github.com/aditya-obj?tab=followers">
     <img src="https://img.shields.io/github/followers/aditya-obj?label=Followers&style=flat&color=1f6feb" alt="followers" />
   </a>
-  <a href="mailto:aditya.obj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aditya.obj%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="email" />
+  <a href="mailto:adityaforge.inn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adityaforge.inn%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
 
