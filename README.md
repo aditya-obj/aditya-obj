@@ -38,7 +38,7 @@
 ## Featured Links
 
 - Portfolio: [adityaforge.in](https://adityaforge.in)
-- Email: [aditya.obj@gmail.com](mailto:aditya.obj@gmail.com)
+- Email: [adityaforge.inn@gmail.com](mailto:adityaforge.inn@gmail.com)
 
 ---
 
